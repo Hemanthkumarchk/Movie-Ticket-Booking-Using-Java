@@ -66,5 +66,5 @@ Contributions are welcome! To contribute to this project, follow these steps:
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact Information
-- **Repository Owner:** [DhanushSM](https://github.com/DhanushSM)
-- **Email:** [your-email@example.com]
+- **Repository Owner:** [Ch Hemanth Kumar] {https://github.com/Hemanthkumarchk}
+- **Email:** [hemanthkumarchiramana50@gmail.com]
